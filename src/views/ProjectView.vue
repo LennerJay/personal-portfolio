@@ -1,5 +1,5 @@
 <template>
-    <div class=" w-4/12 ">
+    <div class=" w-4/12  min-w-full max-w-md">
         <hr class="hr-top">
         <div class="flex justify-center items-center mb-3">
             <span class="text-xs text-center ">Projects from </span>
@@ -9,35 +9,35 @@
             <div class="box">
                 <a href="https://github.com/LennerJay/todoApp" target="_blank">
                     <h2 class="font-semibold">1. Todo App</h2>
-                    <p class="pl-6 py-3 text-xs">This is a common Todo application system but it was made by 2 frameworks which are the vue 3 js and laravel 10 (api)</p>
+                    <p class="pl-6 py-3 text-base  max-w-prose">This is a common Todo application system but it was made by 2 frameworks which are the vue 3 js and laravel 10 (api)</p>
                 </a>
             </div>
             <div class="box">
                 <a href="https://github.com/LennerJay/calculator" target="_blank">
                     <h2 class="font-semibold">2. Calculator</h2>
-                    <p class="pl-6 py-3 text-xs">This was my first simple application I made using vue 3</p>
+                    <p class="pl-6 py-3 text-base  max-w-prose">This was my first simple application I made using vue 3</p>
                 </a>
             </div>
             <div class="box">
                 <a href="https://github.com/LennerJay/" target="_blank">
                     <h2 class="font-semibold">3.  Evalution System</h2>
-                    <p class="pl-6 pt-3 text-xs">This is our CAPSTONE PROJECT, we are using Vue 3 js as frontend and Laravel api for the Backend</p>
+                    <p class="pl-6 pt-3 text-base  max-w-prose">This is our CAPSTONE PROJECT, we are using Vue 3 js as frontend and Laravel api for the Backend</p>
                     <a class="pl-6 pt-3 text-xs underline" href="https://github.com/LennerJay/frontend" target="_blank">Front-End</a>
                     <a class="pl-2 pt-3 text-xs underline" href="https://github.com/LennerJay/backend" target="_blank">Back-End</a>
-                    <p class="pl-6 pb-3 text-xs">expected to be finished: last week of November </p>
+                    <p class="pl-6 pb-3 text-base  max-w-prose">expected to be finished: 3rd week of November </p>
                 </a>
             </div>
             <div class="box">
                 <a href="https://github.com/LennerJay/Chat-Application" target="_blank">
                     <h2 class="font-semibold">4. Chat Application</h2>
-                    <p class="pl-6 pt-3 text-xs">This project is still ongoing </p>
-                    <p class="pl-6 pb-3 text-xs">expected to be finished: 1st week of December </p>
+                    <p class="pl-6 pt-3 text-base  max-w-prose">This project is still ongoing </p>
+                    <p class="pl-6 pb-3 text-base  max-w-prose">expected to be finished: 1st week of January </p>
                 </a>
             </div>
             <div class="box">
                 <a href="https://github.com/LennerJay/finalProject_2ndSem" target="_blank">
                     <h2 class="font-semibold">5. Online Computer Shop</h2>
-                    <p class="pl-6 py-3 text-xs">This was our first big project </p>
+                    <p class="pl-6 py-3 text-base  max-w-prose">This was our first big project </p>
                 </a>
             </div>
         </div>

@@ -18,7 +18,7 @@ import Footer from './components/Footer.vue';
 
 <style scoped>
 .container{
-  @apply bg-blue-100 min-h-screen sm:p-2 p-2 flex flex-col justify-center items-center dark:bg-[#0F172A] duration-500 transition-all ease-in-out
+  @apply w-full bg-blue-100 min-h-screen p-2 flex flex-col justify-center items-center dark:bg-[#0F172A] duration-500 transition-all ease-in-out;
 }
 .fade-enter-active,
 .fade-leave-active {
