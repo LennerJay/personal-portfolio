@@ -1,5 +1,5 @@
 <template>
-    <div class=" w-4/12  min-w-full max-w-md">
+    <div class="  min-w-full max-w-md">
         <hr class="hr-top">
         <div class="flex justify-center items-center mb-3">
             <span class="text-xs text-center ">Projects from </span>
